@@ -1,45 +1,78 @@
 # Muhammad Athar
 
-Software Engineer specializing in React, Next.js, and React Native — building production web/mobile apps and, increasingly, AI-integrated interfaces.
+Software Engineer &mdash; React, Next.js, React Native
 
-<div align="center">
+<img src="assets/status-pill.svg" alt="Open to full-time and contract work" height="34">
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&color=61DAFB&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&color=61DAFB&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&color=3178C6)
-![Redux](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat-square&logo=redux&color=764ABC)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss&color=06B6D4)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&color=339933)
+I build production web and mobile apps with React, Next.js, and React Native &mdash; from marketplace platforms and fintech UIs to, more recently, AI-integrated interfaces. At Stellteck I ship full-stack features across SaaS, fintech, and nonprofit products; outside of work I build things like a real-estate concierge that can navigate a site for you and an email classifier that's not allowed to fail silently.
 
-### Connect with me
+## Stack
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff "hussanmughal9246@gmail.com")](mailto:hussanmughal9246@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff "muhammad-athar")](https://www.linkedin.com/in/muhammad-athar-/)
-![GitHub followers](https://img.shields.io/github/followers/Muhammad-Athar?label=follow&style=social "Follow on Github")
+**Frontend**&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB"> React&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> Next.js&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB"> React Native&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> TypeScript&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> Tailwind
 
-</div>
+**Backend & data**&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> Node.js&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/express/24292f"> Express&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748"> Prisma&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/sqlite/003B57"> SQLite
 
-## Featured Projects
+**AI & tooling**&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/googlegemini/8E75B2"> Gemini API&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1"> Zod&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33"> Playwright&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/git/F05032"> Git
 
-**[EstateAI](https://estateai-tau-one.vercel.app/)** — AI real estate concierge with a streaming multi-LLM chat, agentic in-chat navigation, natural-language & voice property search, and multimodal photo analysis.
-`Next.js 16` · `TypeScript` · `Tailwind` · `Framer Motion` · `Gemini/Groq`
-→ [Live demo](https://estateai-tau-one.vercel.app/) · [Source](https://github.com/Muhammad-Athar/estateai)
+## Where the work goes
 
-**[Email Triage Service](https://github.com/Muhammad-Athar/email-triage-service)** — Production-hardened REST API that classifies support emails with Gemini; Zod-validated output with automatic retry and a guaranteed fallback so callers never see a broken response, even when the model fails.
-`Node.js` · `Express` · `TypeScript` · `Zod` · `Gemini API`
-→ [Source](https://github.com/Muhammad-Athar/email-triage-service)
+<table>
+<tr>
+<td width="160" valign="middle"><img src="assets/donut-chart.svg" width="140"></td>
+<td valign="middle">
 
-**[Diamond Loft](https://github.com/Muhammad-Athar/diamond-loft)** — Full-stack jewellery e-commerce platform: storefront + admin CMS with a realtime order dashboard, PDF receipt generation, and Playwright test coverage.
-`Next.js` · `TypeScript` · `Prisma` · `NextAuth.js`
-→ [Source](https://github.com/Muhammad-Athar/diamond-loft)
+🔵 Frontend & UI engineering &mdash; 55%
+🟢 State & API integration &mdash; 20%
+🟡 AI / LLM integration &mdash; 15%
+🔴 Backend & auth &mdash; 10%
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Athar" alt="Muhammad-Athar"/> </p>
+</td>
+<td width="200" valign="middle"><img src="assets/radar-chart.svg" width="180"></td>
+<td valign="middle">
 
-<p align="center">
-   <img class="darkMode" align="center" alt="Muhammad-Athar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Athar&show_icons=true&hide_border=true&locale=en&theme=tokyonight"/>
-</p>
-<p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Athar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Athar&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
-</p>
+Capability spread, self-assessed &mdash; not calibrated against any external scale.
+Strongest: frontend, state/API integration.
+Growing fast: AI/LLM integration.
+Testing is the honest growth edge.
+
+</td>
+</tr>
+</table>
+
+## Experience
+
+<img src="assets/experience-timeline.svg" width="100%">
+
+## Featured projects
+
+<img src="assets/bar-amber.svg" width="100%" height="4"><br>
+
+### [EstateAI](https://estateai-tau-one.vercel.app/) &nbsp;<sub><sup>**LIVE**</sup></sub>
+
+Streaming multi-LLM real estate concierge with agentic in-chat navigation and multimodal photo search.
+
+<img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/framer/0055FF">
+&nbsp;&nbsp;[Live](https://estateai-tau-one.vercel.app/) &middot; [Source](https://github.com/Muhammad-Athar/estateai)
+
+<img src="assets/bar-indigo.svg" width="100%" height="4"><br>
+
+### [Diamond Loft](https://github.com/Muhammad-Athar/diamond-loft)
+
+Jewellery storefront + admin CMS: realtime order dashboard, PDF receipt generation, Playwright-tested checkout.
+
+<img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33">
+&nbsp;&nbsp;[Source](https://github.com/Muhammad-Athar/diamond-loft)
+
+<img src="assets/bar-teal.svg" width="100%" height="4"><br>
+
+### [Email Triage Service](https://github.com/Muhammad-Athar/email-triage-service)
+
+Production-safe LLM wrapper: Zod-validated output, automatic retry, guaranteed fallback &mdash; callers never see a broken response, even when the model fails.
+
+<img height="18" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/express/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">
+&nbsp;&nbsp;[Source](https://github.com/Muhammad-Athar/email-triage-service)
+
+---
+
+**Open to full-time roles and freelance projects** &middot; Remote or Lahore, Pakistan
+&nbsp;&nbsp;hussanmughal9246@gmail.com &middot; [linkedin.com/in/muhammad-athar-](https://www.linkedin.com/in/muhammad-athar-/)

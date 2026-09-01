@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="150" height="150">
+  <defs>
+    <filter id="donutShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#1b1c1f" flood-opacity="0.18"/>
+    </filter>
+    <linearGradient id="donutGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#donutShadow)">
+    <g transform="rotate(-90 60 60)">
+      <circle cx="60" cy="60" r="46" fill="none" stroke="#4a52c9" stroke-width="16" stroke-dasharray="159 305.5"/>
+      <circle cx="60" cy="60" r="46" fill="none" stroke="#2bb4a3" stroke-width="16" stroke-dasharray="57.9 305.5" transform="rotate(198 60 60)"/>
+      <circle cx="60" cy="60" r="46" fill="none" stroke="#e0a530" stroke-width="16" stroke-dasharray="43.4 305.5" transform="rotate(270 60 60)"/>
+      <circle cx="60" cy="60" r="46" fill="none" stroke="#d1667a" stroke-width="16" stroke-dasharray="28.9 305.5" transform="rotate(324 60 60)"/>
+    </g>
+    <circle cx="60" cy="60" r="46" fill="none" stroke="url(#donutGloss)" stroke-width="16"/>
+  </g>
+</svg>

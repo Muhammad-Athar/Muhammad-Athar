@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 90" width="100%">
+  <defs>
+    <linearGradient id="tlLineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c7cbd1"/>
+      <stop offset="15%" stop-color="#4a52c9"/>
+      <stop offset="85%" stop-color="#4a52c9"/>
+      <stop offset="100%" stop-color="#c7cbd1"/>
+    </linearGradient>
+    <radialGradient id="tlDotGrad" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#9ca2ec"/>
+      <stop offset="100%" stop-color="#4a52c9"/>
+    </radialGradient>
+  </defs>
+
+  <line x1="20" y1="20" x2="700" y2="20" stroke="url(#tlLineGrad)" stroke-width="3" stroke-linecap="round"/>
+
+  <circle r="4.5" fill="#4a52c9">
+    <animateMotion path="M20,20 L700,20" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="90" cy="20" r="10" fill="none" stroke="#c7cbd1" stroke-width="1"/>
+  <circle cx="90" cy="20" r="7" fill="url(#tlDotGrad)"/>
+  <text x="90" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Sep 2023 &#8211; Dec 2024</text>
+  <text x="90" y="64" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4a52c9">React JS Developer</text>
+  <text x="90" y="80" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Devsoul Technologies</text>
+
+  <circle cx="360" cy="20" r="10" fill="none" stroke="#c7cbd1" stroke-width="1"/>
+  <circle cx="360" cy="20" r="7" fill="url(#tlDotGrad)"/>
+  <text x="360" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Dec 2024 &#8211; Jul 2025</text>
+  <text x="360" y="64" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4a52c9">Associate Software Engineer</text>
+  <text x="360" y="80" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Stellteck</text>
+
+  <circle cx="630" cy="20" r="16" fill="#4a52c9" opacity="0.14">
+    <animate attributeName="r" values="14;18;14" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.18;0.05;0.18" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="630" cy="20" r="11" fill="none" stroke="#c7cbd1" stroke-width="1"/>
+  <circle cx="630" cy="20" r="8" fill="url(#tlDotGrad)"/>
+  <text x="630" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Jul 2025 &#8211; Present</text>
+  <text x="630" y="64" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4a52c9">Software Engineer</text>
+  <text x="630" y="80" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Stellteck &#183; promoted in 8mo</text>
+</svg>

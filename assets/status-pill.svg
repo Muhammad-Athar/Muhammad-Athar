@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 34" width="300" height="34">
+  <defs>
+    <filter id="pillGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="297" height="31" rx="15.5" fill="#eefaf1" stroke="#b7e6c2" stroke-width="1.5">
+    <animate attributeName="stroke" values="#b7e6c2;#8fd6a3;#b7e6c2" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1.5" y="1.5" width="297" height="31" rx="15.5" fill="none" stroke="#22c55e" stroke-width="2" filter="url(#pillGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;0.35;0" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="19" cy="17" r="4" fill="#22c55e"/>
+  <circle cx="19" cy="17" r="4" fill="none" stroke="#22c55e" stroke-width="1.5">
+    <animate attributeName="r" values="4;9;4" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="33" y="22" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#166534">Open to full-time &amp; contract work</text>
+</svg>
