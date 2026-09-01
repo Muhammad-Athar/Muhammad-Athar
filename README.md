@@ -10,38 +10,22 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 
 **Frontend**
 
-<table><tr>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB">&nbsp; React&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f">&nbsp; Next.js&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB">&nbsp; React Native&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6">&nbsp; TypeScript&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">&nbsp; Tailwind&nbsp;</td>
-</tr></table>
+<img src="assets/chip-react.svg" height="32"> <img src="assets/chip-nextjs.svg" height="32"> <img src="assets/chip-react-native.svg" height="32"> <img src="assets/chip-typescript.svg" height="32"> <img src="assets/chip-tailwind.svg" height="32">
 
 **Backend & data**
 
-<table><tr>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933">&nbsp; Node.js&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/express/24292f">&nbsp; Express&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748">&nbsp; Prisma&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/sqlite/003B57">&nbsp; SQLite&nbsp;</td>
-</tr></table>
+<img src="assets/chip-nodejs.svg" height="32"> <img src="assets/chip-express.svg" height="32"> <img src="assets/chip-prisma.svg" height="32"> <img src="assets/chip-sqlite.svg" height="32">
 
 **AI & tooling**
 
-<table><tr>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/googlegemini/8E75B2">&nbsp; Gemini API&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">&nbsp; Zod&nbsp;</td>
-<td align="center">&nbsp;Playwright&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/git/F05032">&nbsp; Git&nbsp;</td>
-</tr></table>
+<img src="assets/chip-gemini.svg" height="32"> <img src="assets/chip-zod.svg" height="32"> <img src="assets/chip-playwright.svg" height="32"> <img src="assets/chip-git.svg" height="32">
 
 ## Where the work goes
 
-<table>
+<table style="border:none;">
 <tr>
-<td width="160" valign="middle"><img src="assets/donut-chart.svg" width="140"></td>
-<td valign="middle">
+<td width="160" valign="middle" style="border:none;"><img src="assets/donut-chart.svg" width="140"></td>
+<td valign="middle" style="border:none;">
 
 🔵 Frontend & UI engineering &mdash; 55%<br>
 🟢 State & API integration &mdash; 20%<br>
@@ -49,13 +33,12 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 🔴 Backend & auth &mdash; 10%
 
 </td>
-<td width="200" valign="middle"><img src="assets/radar-chart.svg" width="180"></td>
-<td valign="middle">
+<td width="200" valign="middle" style="border:none;"><img src="assets/radar-chart.svg" width="180"></td>
+</tr>
+<tr>
+<td colspan="3" style="border:none;">
 
-Capability spread, self-assessed &mdash; not calibrated against any external scale.
-Strongest: frontend, state/API integration.
-Growing fast: AI/LLM integration.
-Testing is the honest growth edge.
+<div style="width:75%;">Capability spread, self-assessed &mdash; not calibrated against any external scale. Strongest: frontend, state/API integration. Growing fast: AI/LLM integration. Testing is the honest growth edge.</div>
 
 </td>
 </tr>
@@ -67,46 +50,55 @@ Testing is the honest growth edge.
 
 ## Featured projects
 
-<table>
+<table style="border:none; border-collapse:separate; border-spacing:10px 0;">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:0; overflow:hidden;">
 
 <img src="assets/bar-amber.svg" width="100%" height="4">
 
-**[EstateAI](https://estateai-tau-one.vercel.app/)** &nbsp;<sub><sup>**LIVE**</sup></sub>
+<div style="padding:14px 16px;">
+
+<a href="https://estateai-tau-one.vercel.app/" target="_blank" rel="noopener noreferrer"><b>EstateAI</b></a> &nbsp;<sub><sup><b>LIVE</b></sup></sub>
 
 Streaming multi-LLM real estate concierge with agentic in-chat navigation and multimodal photo search.
 
 <img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/framer/0055FF">
 
-[Live](https://estateai-tau-one.vercel.app/) &middot; [Source](https://github.com/Muhammad-Athar/estateai)
+<a href="https://estateai-tau-one.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a> &middot; <a href="https://github.com/Muhammad-Athar/estateai" target="_blank" rel="noopener noreferrer">Source</a>
 
+</div>
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:0; overflow:hidden;">
 
 <img src="assets/bar-indigo.svg" width="100%" height="4">
 
-**[Diamond Loft](https://github.com/Muhammad-Athar/diamond-loft)**
+<div style="padding:14px 16px;">
+
+<a href="https://github.com/Muhammad-Athar/diamond-loft" target="_blank" rel="noopener noreferrer"><b>Diamond Loft</b></a>
 
 Jewellery storefront + admin CMS: realtime order dashboard, PDF receipt generation, Playwright-tested checkout.
 
 <img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748">
 
-[Source](https://github.com/Muhammad-Athar/diamond-loft)
+<a href="https://github.com/Muhammad-Athar/diamond-loft" target="_blank" rel="noopener noreferrer">Source</a>
 
+</div>
 </td>
-<td width="34%" valign="top">
+<td width="34%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:0; overflow:hidden;">
 
 <img src="assets/bar-teal.svg" width="100%" height="4">
 
-**[Email Triage Service](https://github.com/Muhammad-Athar/email-triage-service)**
+<div style="padding:14px 16px;">
+
+<a href="https://github.com/Muhammad-Athar/email-triage-service" target="_blank" rel="noopener noreferrer"><b>Email Triage Service</b></a>
 
 Production-safe LLM wrapper: Zod-validated output, automatic retry, guaranteed fallback &mdash; callers never see a broken response, even when the model fails.
 
 <img height="18" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/express/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">
 
-[Source](https://github.com/Muhammad-Athar/email-triage-service)
+<a href="https://github.com/Muhammad-Athar/email-triage-service" target="_blank" rel="noopener noreferrer">Source</a>
 
+</div>
 </td>
 </tr>
 </table>
@@ -114,4 +106,4 @@ Production-safe LLM wrapper: Zod-validated output, automatic retry, guaranteed f
 ---
 
 **Open to full-time roles and freelance projects** &middot; Remote or Lahore, Pakistan
-&nbsp;&nbsp;hussanmughal9246@gmail.com &middot; [linkedin.com/in/muhammad-athar-](https://www.linkedin.com/in/muhammad-athar-/)
+&nbsp;&nbsp;<a href="mailto:hussanmughal9246@gmail.com">hussanmughal9246@gmail.com</a> &middot; <a href="https://www.linkedin.com/in/muhammad-athar-/" target="_blank" rel="noopener noreferrer">linkedin.com/in/muhammad-athar-</a>

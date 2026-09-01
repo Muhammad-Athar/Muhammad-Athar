@@ -19,24 +19,45 @@
     <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="3.2s" repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="90" cy="20" r="10" fill="none" stroke="#c7cbd1" stroke-width="1"/>
-  <circle cx="90" cy="20" r="7" fill="url(#tlDotGrad)"/>
+  <!-- node 1: Devsoul -->
+  <circle cx="90" cy="20" r="15" fill="#4a52c9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.16;0.16" keyTimes="0;0.122;0.123;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="20" r="10" fill="none" stroke="#c7cbd1" stroke-width="1">
+    <animate attributeName="stroke" values="#c7cbd1;#c7cbd1;#4a52c9;#4a52c9" keyTimes="0;0.122;0.123;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="20" r="7" fill="#9096a3">
+    <animate attributeName="fill" values="#9096a3;#9096a3;url(#tlDotGrad);url(#tlDotGrad)" keyTimes="0;0.122;0.123;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
   <text x="90" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Sep 2023 &#8211; Dec 2024</text>
   <text x="90" y="64" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4a52c9">React JS Developer</text>
   <text x="90" y="80" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Devsoul Technologies</text>
 
-  <circle cx="360" cy="20" r="10" fill="none" stroke="#c7cbd1" stroke-width="1"/>
-  <circle cx="360" cy="20" r="7" fill="url(#tlDotGrad)"/>
+  <!-- node 2: Associate SWE -->
+  <circle cx="360" cy="20" r="15" fill="#4a52c9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.16;0.16" keyTimes="0;0.519;0.52;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="360" cy="20" r="10" fill="none" stroke="#c7cbd1" stroke-width="1">
+    <animate attributeName="stroke" values="#c7cbd1;#c7cbd1;#4a52c9;#4a52c9" keyTimes="0;0.519;0.52;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="360" cy="20" r="7" fill="#9096a3">
+    <animate attributeName="fill" values="#9096a3;#9096a3;url(#tlDotGrad);url(#tlDotGrad)" keyTimes="0;0.519;0.52;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
   <text x="360" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Dec 2024 &#8211; Jul 2025</text>
   <text x="360" y="64" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4a52c9">Associate Software Engineer</text>
   <text x="360" y="80" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Stellteck</text>
 
+  <!-- node 3: current role -->
   <circle cx="630" cy="20" r="16" fill="#4a52c9" opacity="0.14">
     <animate attributeName="r" values="14;18;14" dur="2.4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.18;0.05;0.18" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="630" cy="20" r="11" fill="none" stroke="#c7cbd1" stroke-width="1"/>
-  <circle cx="630" cy="20" r="8" fill="url(#tlDotGrad)"/>
+  <circle cx="630" cy="20" r="11" fill="none" stroke="#c7cbd1" stroke-width="1">
+    <animate attributeName="stroke" values="#c7cbd1;#c7cbd1;#4a52c9;#4a52c9" keyTimes="0;0.916;0.917;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="630" cy="20" r="8" fill="#9096a3">
+    <animate attributeName="fill" values="#9096a3;#9096a3;url(#tlDotGrad);url(#tlDotGrad)" keyTimes="0;0.916;0.917;1" calcMode="discrete" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
   <text x="630" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Jul 2025 &#8211; Present</text>
   <text x="630" y="64" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4a52c9">Software Engineer</text>
   <text x="630" y="80" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" fill="#7c828b">Stellteck &#183; promoted in 8mo</text>

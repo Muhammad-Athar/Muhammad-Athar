@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 32" width="132" height="32">
+  <rect x="1" y="1" width="130" height="30" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.2"/>
+  <rect x="1" y="1" width="130" height="30" rx="8" fill="none" stroke="#4a52c9" stroke-width="1.6" stroke-linecap="round"
+        stroke-dasharray="16 290.27">
+    <animate attributeName="stroke-dashoffset" from="0" to="-306.27" dur="3.4s" begin="-0.6s" repeatCount="indefinite"/>
+  </rect>
+  <image x="9" y="8.0" width="16" height="16" href="https://cdn.simpleicons.org/react/61DAFB"/>
+  <text x="32" y="20.5" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#24292f">React Native</text>
+</svg>
