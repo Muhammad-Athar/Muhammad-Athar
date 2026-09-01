@@ -25,9 +25,12 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 <a href="#where-the-work-goes"><img src="assets/donut-chart.svg" width="140" height="140" align="left"></a>
 <a href="#where-the-work-goes"><img src="assets/radar-chart.svg" width="180" align="right"></a>
 
-🔵 Frontend & UI engineering &mdash; 55%<br>
-🟢 State & API integration &mdash; 20%<br>
-🟡 AI / LLM integration &mdash; 15%<br>
+🔵 Frontend & UI engineering &mdash; 55%
+<br><br>
+🟢 State & API integration &mdash; 20%
+<br><br>
+🟡 AI / LLM integration &mdash; 15%
+<br><br>
 🔴 Backend & auth &mdash; 10%
 
 <br clear="both">
