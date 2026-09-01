@@ -4,6 +4,6 @@
         stroke-dasharray="16 162.27">
     <animate attributeName="stroke-dashoffset" from="0" to="-178.27" dur="3.4s" begin="-0.9s" repeatCount="indefinite"/>
   </rect>
-  <image x="9" y="8.0" width="16" height="16" href="https://cdn.simpleicons.org/git/F05032"/>
+  <image x="9" y="8.0" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjA1MDMyIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0PC90aXRsZT48cGF0aCBkPSJNMTMuMDkgMjMuNTQ5YTEuNTQgMS41NCAwIDAgMS0yLjE4IDBMLjQ1MSAxMy4wODlhMS41NCAxLjU0IDAgMCAxIDAtMi4xNzlsNy4xOTEtNy4xOSAyLjczMyAyLjczM2ExLjg1IDEuODUgMCAwIDAgLjk2NCAyLjMyNnY2LjY2YTEuODQ5IDEuODQ5IDAgMSAwIDEuNTQgMFY4Ljk1N2wyLjUwOCAyLjUwOGExLjg1IDEuODUgMCAxIDAgMS4wOS0xLjA5bC0yLjYzNC0yLjYzNGExLjg1IDEuODUgMCAwIDAtMi4zNzgtMi4zNzdMOC43MyAyLjYzIDEwLjkxLjQ1MWExLjU0IDEuNTQgMCAwIDEgMi4xNzkgMGwxMC40NTkgMTAuNDZhMS41NCAxLjU0IDAgMCAxIDAgMi4xNzl6Ii8+PC9zdmc+"/>
   <text x="32" y="20.5" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#24292f">Git</text>
 </svg>

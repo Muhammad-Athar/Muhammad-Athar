@@ -22,8 +22,8 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 
 ## Where the work goes
 
-<img src="assets/donut-chart.svg" width="140" align="left">
-<img src="assets/radar-chart.svg" width="180" align="right">
+<a href="#where-the-work-goes"><img src="assets/donut-chart.svg" width="140" height="140" align="left"></a>
+<a href="#where-the-work-goes"><img src="assets/radar-chart.svg" width="180" align="right"></a>
 
 🔵 Frontend & UI engineering &mdash; 55%<br>
 🟢 State & API integration &mdash; 20%<br>
@@ -42,41 +42,43 @@ Capability spread, self-assessed &mdash; not calibrated against any external sca
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="32%" valign="top">
 
-<img src="assets/bar-amber.svg" width="100%" height="4">
+<a href="https://estateai-tau-one.vercel.app/"><img src="assets/bar-amber.svg" width="100%" height="4"></a>
 
 **[EstateAI](https://estateai-tau-one.vercel.app/)** &nbsp;<sub><sup>**LIVE**</sup></sub>
 
-Streaming multi-LLM real estate concierge with agentic in-chat navigation and multimodal photo search.
+Streaming multi-LLM real estate concierge &mdash; agentic in-chat navigation, natural-language search, and multimodal photo analysis.
 
-<img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/framer/0055FF">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"></picture> <img height="18" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/framer/0055FF">
 
 [Live](https://estateai-tau-one.vercel.app/) &middot; [Source](https://github.com/Muhammad-Athar/estateai)
 
 </td>
-<td width="33%" valign="top">
+<td width="2%"></td>
+<td width="32%" valign="top">
 
-<img src="assets/bar-indigo.svg" width="100%" height="4">
+<a href="https://github.com/Muhammad-Athar/diamond-loft"><img src="assets/bar-indigo.svg" width="100%" height="4"></a>
 
 **[Diamond Loft](https://github.com/Muhammad-Athar/diamond-loft)**
 
-Jewellery storefront + admin CMS: realtime order dashboard, PDF receipt generation, Playwright-tested checkout.
+Jewellery e-commerce platform &mdash; storefront and admin CMS with a realtime order dashboard, PDF receipt generation, and Playwright-tested checkout.
 
-<img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff"><img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748"></picture>
 
 [Source](https://github.com/Muhammad-Athar/diamond-loft)
 
 </td>
-<td width="34%" valign="top">
+<td width="2%"></td>
+<td width="32%" valign="top">
 
-<img src="assets/bar-teal.svg" width="100%" height="4">
+<a href="https://github.com/Muhammad-Athar/email-triage-service"><img src="assets/bar-teal.svg" width="100%" height="4"></a>
 
 **[Email Triage Service](https://github.com/Muhammad-Athar/email-triage-service)**
 
-Production-safe LLM wrapper: Zod-validated output, automatic retry, guaranteed fallback &mdash; callers never see a broken response, even when the model fails.
+Production-safe LLM wrapper &mdash; Zod-validated output, automatic retry, guaranteed fallback so callers never see a broken response, even when the model fails.
 
-<img height="18" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/express/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">
+<img height="18" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img height="18" valign="middle" src="https://cdn.simpleicons.org/express/24292f"></picture> <img height="18" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">
 
 [Source](https://github.com/Muhammad-Athar/email-triage-service)
 

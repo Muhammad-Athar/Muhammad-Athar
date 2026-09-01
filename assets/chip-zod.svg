@@ -4,6 +4,6 @@
         stroke-dasharray="16 162.27">
     <animate attributeName="stroke-dashoffset" from="0" to="-178.27" dur="3.4s" begin="-0.3s" repeatCount="indefinite"/>
   </rect>
-  <image x="9" y="8.0" width="16" height="16" href="https://cdn.simpleicons.org/zod/3E67B1"/>
+  <image x="9" y="8.0" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjM0U2N0IxIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Wm9kPC90aXRsZT48cGF0aCBkPSJNMi41ODQgMy41ODJhMi4yNDcgMi4yNDcgMCAwIDEgMi4xMTItMS40NzloMTQuNjE3Yy45NDggMCAxLjc5NC41OTUgMi4xMTUgMS40ODdsMi40NCA2Ljc3N2EyLjI0OCAyLjI0OCAwIDAgMS0uNjI0IDIuNDQzbC05LjYxIDguNTJhMi4yNDcgMi4yNDcgMCAwIDEtMi45NjMuMDE4TC43NzYgMTIuNzczYTIuMjQ4IDIuMjQ4IDAgMCAxLS42NC0yLjQ2N1ptMTIuMDM4IDQuODg3LTkuMTEgNS41MzcgNS43NCA1LjAwN2MuNDU2LjM5OSAxLjEzOS4zOTYgMS41OTMtLjAwNmw1LjY0My01LjAwMUgxNC40bDYuMjM5LTMuOTU3Yy40ODgtLjMyOC42OS0uOTQ3LjQ5MS0xLjVsLTEuMjQtMy40NDZhMS41MzUgMS41MzUgMCAwIDAtMS40NTYtMS4wMTVINS41NDVhMS41MzUgMS41MzUgMCAwIDAtMS40MzEgMS4wMWwtMS4yMjggMy4zN3oiLz48L3N2Zz4="/>
   <text x="32" y="20.5" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#24292f">Zod</text>
 </svg>

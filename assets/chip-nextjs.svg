@@ -4,6 +4,6 @@
         stroke-dasharray="16 216.27">
     <animate attributeName="stroke-dashoffset" from="0" to="-232.27" dur="3.4s" begin="-0.3s" repeatCount="indefinite"/>
   </rect>
-  <image x="9" y="8.0" width="16" height="16" href="https://cdn.simpleicons.org/nextdotjs/24292f"/>
+  <image x="9" y="8.0" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMjQyOTJmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TmV4dC5qczwvdGl0bGU+PHBhdGggZD0iTTE4LjY2NSAyMS45NzhDMTYuNzU4IDIzLjI1NSAxNC40NjUgMjQgMTIgMjQgNS4zNzcgMjQgMCAxOC42MjMgMCAxMlM1LjM3NyAwIDEyIDBzMTIgNS4zNzcgMTIgMTJjMCAzLjU4My0xLjU3NCA2LjgwMS00LjA2NyA5LjAwMUw5LjIxOSA3LjJINy4ydjkuNTk2aDEuNjE1VjkuMjUxbDkuODUgMTIuNzI3Wm0tMy4zMzItOC41MzMgMS42IDIuMDYxVjcuMmgtMS42djYuMjQ1WiIvPjwvc3ZnPg=="/>
   <text x="32" y="20.5" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#24292f">Next.js</text>
 </svg>
