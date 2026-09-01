@@ -8,11 +8,33 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 
 ## Stack
 
-**Frontend**&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB"> React&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> Next.js&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB"> React Native&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> TypeScript&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> Tailwind
+**Frontend**
 
-**Backend & data**&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> Node.js&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/express/24292f"> Express&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748"> Prisma&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/sqlite/003B57"> SQLite
+<table><tr>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB">&nbsp; React&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f">&nbsp; Next.js&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/react/61DAFB">&nbsp; React Native&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6">&nbsp; TypeScript&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">&nbsp; Tailwind&nbsp;</td>
+</tr></table>
 
-**AI & tooling**&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/googlegemini/8E75B2"> Gemini API&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1"> Zod&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33"> Playwright&nbsp;&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/git/F05032"> Git
+**Backend & data**
+
+<table><tr>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933">&nbsp; Node.js&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/express/24292f">&nbsp; Express&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748">&nbsp; Prisma&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/sqlite/003B57">&nbsp; SQLite&nbsp;</td>
+</tr></table>
+
+**AI & tooling**
+
+<table><tr>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/googlegemini/8E75B2">&nbsp; Gemini API&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">&nbsp; Zod&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33">&nbsp; Playwright&nbsp;</td>
+<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/git/F05032">&nbsp; Git&nbsp;</td>
+</tr></table>
 
 ## Where the work goes
 
@@ -21,9 +43,9 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 <td width="160" valign="middle"><img src="assets/donut-chart.svg" width="140"></td>
 <td valign="middle">
 
-🔵 Frontend & UI engineering &mdash; 55%
-🟢 State & API integration &mdash; 20%
-🟡 AI / LLM integration &mdash; 15%
+🔵 Frontend & UI engineering &mdash; 55%<br>
+🟢 State & API integration &mdash; 20%<br>
+🟡 AI / LLM integration &mdash; 15%<br>
 🔴 Backend & auth &mdash; 10%
 
 </td>
@@ -45,32 +67,49 @@ Testing is the honest growth edge.
 
 ## Featured projects
 
-<img src="assets/bar-amber.svg" width="100%" height="4"><br>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### [EstateAI](https://estateai-tau-one.vercel.app/) &nbsp;<sub><sup>**LIVE**</sup></sub>
+<img src="assets/bar-amber.svg" width="100%" height="4">
+
+**[EstateAI](https://estateai-tau-one.vercel.app/)** &nbsp;<sub><sup>**LIVE**</sup></sub>
 
 Streaming multi-LLM real estate concierge with agentic in-chat navigation and multimodal photo search.
 
 <img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/typescript/3178C6"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/framer/0055FF">
-&nbsp;&nbsp;[Live](https://estateai-tau-one.vercel.app/) &middot; [Source](https://github.com/Muhammad-Athar/estateai)
 
-<img src="assets/bar-indigo.svg" width="100%" height="4"><br>
+[Live](https://estateai-tau-one.vercel.app/) &middot; [Source](https://github.com/Muhammad-Athar/estateai)
 
-### [Diamond Loft](https://github.com/Muhammad-Athar/diamond-loft)
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/bar-indigo.svg" width="100%" height="4">
+
+**[Diamond Loft](https://github.com/Muhammad-Athar/diamond-loft)**
 
 Jewellery storefront + admin CMS: realtime order dashboard, PDF receipt generation, Playwright-tested checkout.
 
 <img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33">
-&nbsp;&nbsp;[Source](https://github.com/Muhammad-Athar/diamond-loft)
 
-<img src="assets/bar-teal.svg" width="100%" height="4"><br>
+[Source](https://github.com/Muhammad-Athar/diamond-loft)
 
-### [Email Triage Service](https://github.com/Muhammad-Athar/email-triage-service)
+</td>
+<td width="34%" valign="top">
+
+<img src="assets/bar-teal.svg" width="100%" height="4">
+
+**[Email Triage Service](https://github.com/Muhammad-Athar/email-triage-service)**
 
 Production-safe LLM wrapper: Zod-validated output, automatic retry, guaranteed fallback &mdash; callers never see a broken response, even when the model fails.
 
 <img height="18" valign="middle" src="https://cdn.simpleicons.org/nodedotjs/339933"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/express/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">
-&nbsp;&nbsp;[Source](https://github.com/Muhammad-Athar/email-triage-service)
+
+[Source](https://github.com/Muhammad-Athar/email-triage-service)
+
+</td>
+</tr>
+</table>
 
 ---
 
