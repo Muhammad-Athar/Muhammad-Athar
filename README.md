@@ -32,7 +32,7 @@ I build production web and mobile apps with React, Next.js, and React Native &md
 <table><tr>
 <td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/googlegemini/8E75B2">&nbsp; Gemini API&nbsp;</td>
 <td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/zod/3E67B1">&nbsp; Zod&nbsp;</td>
-<td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33">&nbsp; Playwright&nbsp;</td>
+<td align="center">&nbsp;Playwright&nbsp;</td>
 <td align="center">&nbsp;<img height="20" valign="middle" src="https://cdn.simpleicons.org/git/F05032">&nbsp; Git&nbsp;</td>
 </tr></table>
 
@@ -90,7 +90,7 @@ Streaming multi-LLM real estate concierge with agentic in-chat navigation and mu
 
 Jewellery storefront + admin CMS: realtime order dashboard, PDF receipt generation, Playwright-tested checkout.
 
-<img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/playwright/2EAD33">
+<img height="18" valign="middle" src="https://cdn.simpleicons.org/nextdotjs/24292f"> <img height="18" valign="middle" src="https://cdn.simpleicons.org/prisma/2D3748">
 
 [Source](https://github.com/Muhammad-Athar/diamond-loft)
 
