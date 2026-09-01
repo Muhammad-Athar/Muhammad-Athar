@@ -40,11 +40,9 @@ Capability spread, self-assessed &mdash; not calibrated against any external sca
 
 ## Featured projects
 
-<table width="100%">
-<tr valign="top">
-<td width="33%">
-
-<table width="100%"><tr><td valign="top">
+<table>
+<tr>
+<td width="33%" valign="top">
 
 <img src="assets/bar-amber.svg" width="100%" height="4">
 
@@ -56,12 +54,8 @@ Streaming multi-LLM real estate concierge with agentic in-chat navigation and mu
 
 [Live](https://estateai-tau-one.vercel.app/) &middot; [Source](https://github.com/Muhammad-Athar/estateai)
 
-</td></tr></table>
-
 </td>
-<td width="33%">
-
-<table width="100%"><tr><td valign="top">
+<td width="33%" valign="top">
 
 <img src="assets/bar-indigo.svg" width="100%" height="4">
 
@@ -73,12 +67,8 @@ Jewellery storefront + admin CMS: realtime order dashboard, PDF receipt generati
 
 [Source](https://github.com/Muhammad-Athar/diamond-loft)
 
-</td></tr></table>
-
 </td>
-<td width="34%">
-
-<table width="100%"><tr><td valign="top">
+<td width="34%" valign="top">
 
 <img src="assets/bar-teal.svg" width="100%" height="4">
 
@@ -90,13 +80,9 @@ Production-safe LLM wrapper: Zod-validated output, automatic retry, guaranteed f
 
 [Source](https://github.com/Muhammad-Athar/email-triage-service)
 
-</td></tr></table>
-
 </td>
 </tr>
 </table>
-
-<br clear="both">
 
 ---
 
